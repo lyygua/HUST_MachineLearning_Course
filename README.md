@@ -3,3 +3,5 @@
 This is HUST 19 student's ML course design, which is a fake news detector.
 
 Please click the star icon on the right side of top column if this helps you.
+
+华科19级机器学习课程实验
